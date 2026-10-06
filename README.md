@@ -33,9 +33,7 @@ FluorideVarnish_GitHub/
 ├── README.md
 ├── .gitignore
 ├── MANIFEST_SHA256.txt
-├── supplement/
-│   └── supplement01.tex
-└── code/
+├── SUPPLEMENT_fluoridevarnish.pdf
     ├── 00_install_packages.R
     ├── 01_historical_classical_REML_HK.R
     ├── 02_historical_bayesmeta_prior_sensitivity.R
