@@ -1,0 +1,6 @@
+study,year,event_T,n_T,event_C,n_C,logRR_adjusted,SE_logRR_adjusted,notes
+Munoz-Millan,2018,,,,,,,Verify event counts/design-adjusted uncertainty
+McMahon,2020,,,,,,,Verify event counts/design-adjusted uncertainty
+Wang,2022,,,,,,,Cluster-randomized: prefer design-adjusted logRR/SE
+Zeng,2025,,,,,,,Verify PFM incidence counts/design-adjusted uncertainty
+He,2026,,,,,,,Verify event counts/design-adjusted uncertainty
